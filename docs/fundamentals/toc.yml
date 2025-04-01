@@ -30,7 +30,7 @@ items:
                     href: ../core/install/linux-ubuntu-install.md
                     displayName: ubuntu
                   - name: Decision Guide
-                    href: ../core/install/linux-ubuntu.md
+                    href: /dotnet/core/install/linux-ubuntu-install
                     displayName: ubuntu
               - name: Alpine
                 href: ../core/install/linux-alpine.md
